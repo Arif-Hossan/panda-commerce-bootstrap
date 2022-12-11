@@ -1,0 +1,31 @@
+.price{
+    color: #FF136F;
+}
+
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+}
+.categories img{
+    width: 100px;
+}
+.panda-slide .carousel-item{
+    background-color: #fceae8;
+    border-radius: 0.7em;
+}
+.panda-subscribe{
+    border-radius: 0.7em;
+}
+.panda-button{
+    background-color: ff1973;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
